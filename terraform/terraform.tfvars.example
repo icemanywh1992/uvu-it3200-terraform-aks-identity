@@ -1,0 +1,6 @@
+subscription_id   = "REPLACE_WITH_AZURE_SUBSCRIPTION_ID"
+location          = "westus2"
+student_id        = "yeewi"
+acr_unique_suffix = "CHANGE_TO_UNIQUE_LETTERS_OR_DIGITS"
+node_vm_size      = "Standard_D2s_v3"
+node_count        = 1
